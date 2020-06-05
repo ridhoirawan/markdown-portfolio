@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+- money
+- power
+- knowledge
+- family
+
+* games
+* coffee
+* snacks
+* movies
